@@ -1,5 +1,5 @@
-![Black Elegant Minimalist Profile LinkedIn Banner](https://github.com/charkaoui007/charkaoui007/assets/119069223/265f3da0-1e4d-42de-b6f3-43e764b1f781)
 
+![Bleu et Blanc Architecte LinkedIn Bannière](https://github.com/user-attachments/assets/85774dd0-b9a5-4bd1-a1be-a8cf7fe4b960)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anass CHARKAOUI
