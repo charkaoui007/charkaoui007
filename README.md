@@ -1,5 +1,5 @@
 
-![Bleu et Blanc Architecte LinkedIn Bannière](https://github.com/user-attachments/assets/85774dd0-b9a5-4bd1-a1be-a8cf7fe4b960)
+![Bleu et Blanc Architecte LinkedIn Bannière](https://github.com/user-attachments/assets/4c959f28-b141-4bfc-b5c6-755e4b2e4b55)
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anass CHARKAOUI
