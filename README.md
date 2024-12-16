@@ -10,13 +10,12 @@ Software Engineer
 
 Professional procrastinator, coffee enthusiast, and master of Ctrl+C and Ctrl+V. My code is like a fine wine - it takes time to mature, but mostly it's just an excuse for my endless debugging adventures. If my commits were as consistent as my coffee intake, we'd probably have world peace by now. Living on the edge, one merge conflict at a time. #CodeWithCoffee 🚀
 
-* 🌍  I'm based in Marrakesh
+* 🌍  I'm based in Morocco
 * ✉️  You can contact me at [charkaouianass001@gmail.com](mailto:charkaouianass001@gmail.com)
-* 🚀  I'm currently working on [IT helpdesk App](http://github.com/charkaoui007/portfolio)
 * 🧠  I'm learning Angular,Pandas,NumPy
 * 🤝  I'm open to collaborating on any intersting projects
-* ⚡  My name is Bond, James Bond
-
+* ✨ Fun Fact: My name isn’t actually Bond, but it should be.
+  
 ### Skills
 
 
